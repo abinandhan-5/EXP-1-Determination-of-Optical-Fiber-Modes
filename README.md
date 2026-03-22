@@ -52,6 +52,7 @@ coupling lens assembly by adjusting the vertical and horizontal travel arrangeme
 
 
 ## 📊 OBSERVATION AND CALCULATION
+![WhatsApp Image 2026-03-22 at 9 12 20 PM](https://github.com/user-attachments/assets/b05e080d-feac-469f-968e-625e6d4a09af)
 
 - 
 Parameter of given fiber are,
