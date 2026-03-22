@@ -64,3 +64,4 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Result
+Thus the mode characterstic of fiber optic cable and lower order linearly polarized modes are observed .
